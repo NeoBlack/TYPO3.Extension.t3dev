@@ -1,0 +1,3 @@
+#cat=others;type=boolean;label=admin only:show link menu only for admins
+linkmenu_adminonly = 1
+

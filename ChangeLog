@@ -1,0 +1,11 @@
+(add new changes on top of this file)
+project homepage: http://forge.typo3.org/projects/show/extension-t3dev
+
+08-05-14 Frank Nägler<typo3@naegler.net>
+	* bugfix: <?php
+	* two new links:
+	  APIDocs: TYPO3 API 4.1.6 & 4.2.0 
+	  many thanks to Thomas Hempel from http://www.typo3-unleashed.net/ for the hosting of the APIDocs
+
+08-05-14 Frank Nägler  typo3@naegler.net>
+	* Initial release

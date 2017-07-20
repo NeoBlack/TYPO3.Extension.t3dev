@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>module</type>
+		<description>Language labels for module &quot;tools_txt3devM1&quot; - header, description</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="mlang_tabs_tab">T3dev</label>
+			<label index="mlang_labels_tabdescr">developer tools</label>
+			<label index="mlang_labels_tablabel">T3dev</label>
+		</languageKey>
+		<languageKey index="de" type="array">
+			<label index="mlang_tabs_tab">T3dev</label>
+			<label index="mlang_labels_tabdescr">Entwickler Tools</label>
+			<label index="mlang_labels_tablabel">T3dev</label>
+		</languageKey>
+	</data>
+</T3locallang>

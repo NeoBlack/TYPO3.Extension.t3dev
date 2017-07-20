@@ -1,0 +1,81 @@
+<T3DataStructure>
+ <meta type="array">
+  <langDisable>1</langDisable>
+ </meta>
+ <sheets type="array">
+  <sDEF type="array">
+   <ROOT type="array">
+    <TCEforms type="array">
+     <sheetTitle>LLL:EXT:t3dev/locallang_db.php:tt_content.pi_flexform.sheet_general</sheetTitle>
+    </TCEforms>
+    <type>array</type>
+    <el type="array">
+     <view_count type="array">
+      <TCEforms type="array">
+       <config type="array">
+        <type>rel</type>
+        <rel_table>fe_users</rel_table>
+        <rel_type>group</rel_type>
+        <relations></relations>
+        <relations_selsize></relations_selsize>
+        <wiz_addrec>1</wiz_addrec>
+        <wiz_listrec>1</wiz_listrec>
+        <wiz_editrec>1</wiz_editrec>
+       </config>
+      </TCEforms>
+     </view_count>
+     <test1 type="array">
+      <TCEforms type="array">
+       <config type="array">
+        <type>textarea_rte</type>
+        <rte>tt_content</rte>
+       </config>
+      </TCEforms>
+     </test1>
+     <test2 type="array">
+      <TCEforms type="array">
+       <config type="array">
+        <type>rel</type>
+        <rel_table></rel_table>
+        <rel_type>group</rel_type>
+        <relations></relations>
+        <relations_selsize></relations_selsize>
+       </config>
+      </TCEforms>
+     </test2>
+     <test3 type="array">
+      <TCEforms type="array">
+       <config type="array">
+        <type>rel</type>
+        <rel_table></rel_table>
+        <rel_type>group</rel_type>
+        <relations></relations>
+        <relations_selsize></relations_selsize>
+       </config>
+      </TCEforms>
+     </test3>
+    </el>
+   </ROOT>
+  </sDEF>
+  <test type="array">
+   <ROOT type="array">
+    <TCEforms type="array">
+     <sheetTitle>LLL:EXT:t3dev/locallang_db.php:tt_content.pi_flexform.sheet_test</sheetTitle>
+    </TCEforms>
+    <type>array</type>
+    <el type="array">
+    </el>
+   </ROOT>
+  </test>
+  <test2 type="array">
+   <ROOT type="array">
+    <TCEforms type="array">
+     <sheetTitle>LLL:EXT:t3dev/locallang_db.php:tt_content.pi_flexform.sheet_test2</sheetTitle>
+    </TCEforms>
+    <type>array</type>
+    <el type="array">
+    </el>
+   </ROOT>
+  </test2>
+ </sheets>
+</T3DataStructure>
